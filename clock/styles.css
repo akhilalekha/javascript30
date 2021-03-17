@@ -44,3 +44,16 @@ body {
 	transform: rotate(90deg);
 	transition: all 0.5s;
 }
+.transt {
+	transition: all 0.5s;
+}
+.second-hand {
+	width: 50%;
+	height: 3px;
+	background: rgb(151, 4, 4);
+}
+
+.hour-hand {
+	width: 38%;
+	left: 10%;
+}
